@@ -1,0 +1,1 @@
+ # This repository is a collection of my daily practice projects, including code snippets, algorithms, and concepts I am learning to enhance my programming skills.
